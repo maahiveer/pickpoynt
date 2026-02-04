@@ -128,9 +128,9 @@ export function BlogHero() {
               </div>
               <button
                 type="submit"
-                className="w-full rounded-xl bg-slate-900 px-4 py-3 text-sm font-semibold text-white shadow-lg shadow-slate-900/30 transition hover:-translate-y-0.5 hover:bg-slate-800 focus:outline-none focus-visible:ring-2 focus-visible:ring-slate-900 dark:bg-blue-600 dark:hover:bg-blue-500"
+                className="w-full rounded-xl bg-slate-900 px-4 py-3 text-sm font-semibold text-white shadow-lg shadow-slate-900/30 transition hover:-translate-y-0.5 hover:bg-slate-800 focus:outline-none focus-visible:ring-2 focus-visible:ring-slate-900 dark:bg-green-600 dark:hover:bg-green-500"
               >
-                Subscribe & get the latest teardown
+                Subscribe & get the latest garden guide
               </button>
             </form>
 
