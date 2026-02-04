@@ -69,7 +69,7 @@ export async function ArticleList() {
             Latest Articles
           </h2>
           <p className="mt-4 text-lg text-slate-600 dark:text-slate-400">
-            Discover insights, tutorials, and stories about technology and development
+            Discover expert guides, organic tips, and inspiration for your garden and indoor plants
           </p>
         </div>
 
